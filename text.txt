@@ -1,0 +1,6 @@
+escreve 
+lendo
+escreve 
+lendo
+escreve 
+lendo
